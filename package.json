@@ -1,0 +1,23 @@
+{
+  "name": "game-review",
+  "version": "1.0.0",
+  "description": "Game Review Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shade1912/Game-Review.git"
+  },
+  "author": "Pushkar Save, Mihir Thakur, Anand Tiwari, Abhishek Walinjkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shade1912/Game-Review/issues"
+  },
+  "homepage": "https://github.com/Shade1912/Game-Review#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.6"
+  }
+}
