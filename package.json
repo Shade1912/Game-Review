@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Shade1912/Game-Review#readme",
   "dependencies": {
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
     "mongoose": "^5.10.6"
   }
